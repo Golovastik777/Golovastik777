@@ -54,7 +54,7 @@
 ###
 
 <h3 align="left">🔥  My statistics :</h3>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Golovastik777}&theme={Golovastik777}" height="200"
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golovastik777&theme=golovastik777" height="200"
 
 ###
 

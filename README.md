@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">👋 Привет, меня зовут Игорь!</h1>
+<h1 align="center">👋 Hi, my name is Igor!</h1>
 
 ###
 
@@ -18,22 +18,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
-<p align="left">Я начинающий Backend разработчик. Мой путь в it начался со школы, я начал изучать язык программирования Python и мне понравилось. Сейчас я студент факультета инфокоммуникационных технологий НИУ ИТМО.  В настоящий момент я занимаюсь самостоятельно а также прохожу курсы от VK.
+<p align="left">I am a novice Backend developer. My path to it started at school, I started learning the Python programming language and I liked it. Now I am a student of the Faculty of Information and Communication Technologies at ITMO National Research University. At the moment, I am studying on my own and also taking courses from VK.
 
 
 ###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
-
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Technologies:</h3>
 
 ###
 
@@ -56,6 +49,24 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥  My statistics :</h3>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Golovastik777}&theme={Golovastik777}" height="200"
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###

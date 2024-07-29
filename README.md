@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I am a novice Backend developer. My path to it started at school, I started learning the Python programming language and I liked it. Now I am a student of the Faculty of Information and Communication Technologies at ITMO National Research University. At the moment, I am studying on my own and also taking courses from VK, I also develop my own project in the team where I am Fullstack dev.
+<p align="left">I am a novice Backend and Frontend developer. My path to it started at school, I started learning the Python programming language and I liked it. Now I am a student of the Faculty of Information and Communication Technologies at ITMO National Research University. At the moment, I am studying on my own and also taking courses from VK, I also develop my own project in the team where I am Fullstack dev.
 
 
 ###

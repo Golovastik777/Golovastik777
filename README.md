@@ -58,6 +58,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <a target="_blank" href="https://icons8.com/icon/54087/nodejs">Nodejs</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 </div>
 
 ###

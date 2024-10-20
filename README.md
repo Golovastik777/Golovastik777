@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/54087/nodejs" height="40" alt="nodejs logo" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-wordmark-programming-language-pack-logos-icons-1174937.png?f=webp&w=256" height="40" alt="nodejs logo" />
 </div>
 
 ###

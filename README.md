@@ -30,37 +30,45 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-   <img width="12" />
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-   <img width="12" />
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-   <img width="12" />
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-   <img width="12" />
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-  <img width="12" />
- <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-wordmark-programming-language-pack-logos-icons-1174937.png?f=webp&w=256" height="40" alt="nodejs logo" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform" title="Terraform" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ansible" width="40" height="40" alt="Ansible" title="Ansible" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=windows" width="40" height="40" alt="Windows" title="Windows" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=powershell" width="40" height="40" alt="PowerShell (.ps1)" title="PowerShell (.ps1)" />&nbsp;
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" title="Linux" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" title="Bash" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python / asyncio" title="Python / asyncio" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="GitLab CI/CD" title="GitLab CI/CD" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker / Docker Compose" title="Docker / Docker Compose" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" title="Kubernetes" />&nbsp;
+  <img src="https://cdn.simpleicons.org/proxmox/E57000" width="40" height="40" alt="Proxmox VE" title="Proxmox VE" />&nbsp;
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx" title="Nginx" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/haproxy.svg" width="40" height="40" alt="HAProxy" title="HAProxy" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL / SQL" title="PostgreSQL / SQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" title="Redis" />&nbsp;
+  <img src="https://cdn.simpleicons.org/celery/37814A" width="40" height="40" alt="Celery" title="Celery" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS / S3" title="AWS / S3" />&nbsp;
+  <img src="https://cdn.simpleicons.org/yandexcloud/5282FF" width="40" height="40" alt="Yandex Cloud" title="Yandex Cloud" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="Cloudflare Workers / R2" title="Cloudflare Workers / R2" />&nbsp;
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana" title="Grafana" />&nbsp;
+  <img src="https://cdn.simpleicons.org/grafanaloki/F46800" width="40" height="40" alt="Grafana Loki" title="Grafana Loki" />&nbsp;
+  <img src="https://cdn.simpleicons.org/zabbix/D40000" width="40" height="40" alt="Zabbix" title="Zabbix" />&nbsp;
+  <img src="https://cdn.simpleicons.org/vector/00B4A0" width="40" height="40" alt="Vector" title="Vector" />&nbsp;
+  <img src="https://cdn.simpleicons.org/k6/7D64FF" width="40" height="40" alt="k6" title="k6" />&nbsp;
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram Bot API" title="Telegram Bot API" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" title="HTML" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" title="CSS" />&nbsp;
+</p>
 
 ###
 
